@@ -22,7 +22,7 @@
 ### 📈 **2. Real-Time Stock Market Analytics (Apache Zeppelin & AWS)**
 - **Tech:** Zeppelin Notebook, AWS S3, Python, Athena  
 - **Description:** Developed a real-time stock market analytics pipeline with interactive visualizations.  
-- **🔗 [View Project]([https://github.com/your-repo-link](https://github.com/vijay0612/real-time-stock-monitoring))**
+- **🔗 [View Project]((https://github.com/vijay0612/real-time-stock-monitoring))**
 
 **CERTIFICATIONS**  
 - **AWS Data Engineer Associate** – [View Certificate](https://www.credly.com/badges/9b4cfb57-2ca4-4cc3-a899-03f5eafa6d87) (Feb 2025)  
